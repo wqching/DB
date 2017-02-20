@@ -1,0 +1,2 @@
+:Canvas.CanvasView_CanvasView	{type='CanvasView' name='CanvasView' windowCaption='Canvas' windowType='QMainWindow'}
+:Canvas_QMainWindow	{type='QMainWindow' windowTitle='Canvas' windowCaption='Canvas' windowType='QMainWindow'}

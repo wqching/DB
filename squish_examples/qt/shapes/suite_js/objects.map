@@ -1,0 +1,22 @@
+:Add Box_QPushButton	{container=':_QGraphicsProxyWidget' text='Add Box' type='QPushButton' unnamed='1' visible='1'}
+:Add Polygon_QPushButton	{container=':_QGraphicsProxyWidget' text='Add Polygon' type='QPushButton' unnamed='1' visible='1'}
+:Add Text..._QPushButton	{container=':_QGraphicsProxyWidget' text='Add Text...' type='QPushButton' unnamed='1' visible='1'}
+:Delete..._QPushButton	{container=':_QGraphicsProxyWidget' text='Delete...' type='QPushButton' unnamed='1' visible='1'}
+:Quit_QPushButton	{container=':_QGraphicsProxyWidget' text='Quit' type='QPushButton' unnamed='1' visible='1'}
+:Shapes - Add Text.Text:_QLabel	{text='Text:' type='QLabel' unnamed='1' visible='1' window=':Shapes - Add Text_QInputDialog'}
+:Shapes - Add Text_QInputDialog	{type='QInputDialog' unnamed='1' visible='1' windowTitle='Shapes - Add Text'}
+:Shapes - Delete.Yes to All_QPushButton	{text='Yes to All' type='QPushButton' unnamed='1' visible='1' window=':Shapes - Delete_QMessageBox'}
+:Shapes - Delete_QMessageBox	{type='QMessageBox' unnamed='1' visible='1' windowTitle='Shapes - Delete'}
+:Shapes_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='Shapes'}
+:Shapes_QGraphicsView	{type='QGraphicsView' unnamed='1' visible='1' window=':Shapes_MainWindow'}
+:Text:_QLineEdit	{buddy=':Shapes - Add Text.Text:_QLabel' type='QLineEdit' unnamed='1' visible='1'}
+:Things_QGraphicsTextItem	{acceptDrops='yes' container=':Shapes_QGraphicsView' editable='no' enabled='yes' focusable='no' movable='yes' selectable='yes' text='Things' type='QGraphicsTextItem' visible='yes'}
+:_QGraphicsPolygonItem	{acceptDrops='no' container=':Shapes_QGraphicsView' enabled='yes' fillColor='#800000' focusable='no' lineColor='#000000' movable='yes' selectable='yes' type='QGraphicsPolygonItem' visible='yes'}
+:_QGraphicsPolygonItem_2	{acceptDrops='no' container=':Shapes_QGraphicsView' enabled='yes' fillColor='#ff0000' focusable='no' lineColor='#000000' movable='yes' selectable='yes' type='QGraphicsPolygonItem' visible='yes'}
+:_QGraphicsProxyWidget	{acceptDrops='yes' container=':Shapes_QGraphicsView' enabled='yes' focusable='yes' movable='no' selectable='no' type='QGraphicsProxyWidget' visible='yes'}
+:_QGraphicsRectItem	{acceptDrops='no' container=':Shapes_QGraphicsView' enabled='yes' fillColor='#000000' focusable='no' lineColor='#000000' movable='yes' selectable='yes' type='QGraphicsRectItem' visible='yes'}
+:_QGraphicsRectItem_2	{acceptDrops='no' container=':Shapes_QGraphicsView' enabled='yes' fillColor='#ff0000' focusable='no' lineColor='#000000' movable='yes' selectable='yes' type='QGraphicsRectItem' visible='yes'}
+:_QGraphicsTextItem	{acceptDrops='yes' container=':Shapes_QGraphicsView' enabled='yes' focusable='no' movable='yes' selectable='yes' type='QGraphicsTextItem' visible='yes'}
+:_QLCDNumber	{type='QLCDNumber' unnamed='1' visible='1'}
+:_QMenu	{type='QMenu' unnamed='1' visible='1'}
+:_QSpinBox	{type='QSpinBox' unnamed='1' visible='1'}

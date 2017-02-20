@@ -1,0 +1,86 @@
+:Address Book - Add.Cancel_QPushButton	{text='Cancel' type='QPushButton' unnamed='1' visible='1' window=':Address Book - Add_Dialog'}
+:Address Book - Add.Email:_QLabel	{text='Email:' type='QLabel' unnamed='1' visible='1' window=':Address Book - Add_Dialog'}
+:Address Book - Add.Forename:_QLabel	{text='Forename:' type='QLabel' unnamed='1' visible='1' window=':Address Book - Add_Dialog'}
+:Address Book - Add.OK_QPushButton	{text='OK' type='QPushButton' unnamed='1' visible='1' window=':Address Book - Add_Dialog'}
+:Address Book - Add.Phone:_QLabel	{text='Phone:' type='QLabel' unnamed='1' visible='1' window=':Address Book - Add_Dialog'}
+:Address Book - Add.Surname:_QLabel	{text='Surname:' type='QLabel' unnamed='1' visible='1' window=':Address Book - Add_Dialog'}
+:Address Book - Add_Dialog	{type='Dialog' unnamed='1' visible='1' windowTitle='Address Book - Add'}
+:Address Book - Choose File.File name:_QLabel	{name='fileNameLabel' text='File name:' type='QLabel' visible='1' window=':Address Book - Choose File_QFileDialog'}
+:Address Book - Choose File.Open_QPushButton	{text='Open' type='QPushButton' unnamed='1' visible='1' window=':Address Book - Choose File_QFileDialog'}
+:Address Book - Choose File.detailModeButton_QToolButton	{name='detailModeButton' type='QToolButton' visible='1' window=':Address Book - Choose File_QFileDialog'}
+:Address Book - Choose File.lookInCombo_QComboBox	{name='lookInCombo' type='QComboBox' visible='1' window=':Address Book - Choose File_QFileDialog'}
+:Address Book - Choose File.splitter_QSplitter	{name='splitter' type='QSplitter' visible='1' window=':Address Book - Choose File_QFileDialog'}
+:Address Book - Choose File_QFileDialog	{name='QFileDialog' type='QFileDialog' visible='1' windowTitle='Address Book - Choose File'}
+:Address Book - Delete.No_QPushButton	{text='No' type='QPushButton' unnamed='1' visible='1' window=':Address Book - Delete_QMessageBox'}
+:Address Book - Delete.Yes_QPushButton	{text='Yes' type='QPushButton' unnamed='1' visible='1' window=':Address Book - Delete_QMessageBox'}
+:Address Book - Delete_QMessageBox	{type='QMessageBox' unnamed='1' visible='1'}
+:Address Book - MyAddresses.adr.2_1_LineEdit	{column='1' row='2' type='LineEdit' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.3_1_LineEdit	{column='1' row='3' type='LineEdit' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.3_1_QExpandingLineEdit	{column='1' row='3' type='QExpandingLineEdit' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.3_3_LineEdit	{column='3' row='3' type='LineEdit' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.6_2_LineEdit	{column='2' row='6' type='LineEdit' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.Add_QToolButton	{text='Add' type='QToolButton' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.Edit_QMenu	{title='Edit' type='QMenu' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.Edit_QTableWidget	{aboveWidget=':Address Book - MyAddresses.adr.Edit_QToolBar' type='QTableWidget' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.Edit_QToolBar	{type='QToolBar' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow' windowTitle='Edit'}
+:Address Book - MyAddresses.adr.File_QMenu	{title='File' type='QMenu' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.File_QTableWidget	{aboveWidget=':Address Book - MyAddresses.adr.File_QToolBar' type='QTableWidget' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.File_QToolBar	{type='QToolBar' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow' windowTitle='File'}
+:Address Book - MyAddresses.adr.Open_QToolButton	{text='Open' type='QToolButton' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr.Remove_QToolButton	{text='Remove' type='QToolButton' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='Address Book - MyAddresses.adr'}
+:Address Book - MyAddresses.adr_QMenuBar	{type='QMenuBar' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - MyAddresses.adr_QTableCornerButton	{type='QTableCornerButton' unnamed='1' visible='1' window=':Address Book - MyAddresses.adr_MainWindow'}
+:Address Book - Save As_QFileDialog	{name='QFileDialog' type='QFileDialog' visible='1' windowTitle='Address Book - Save As'}
+:Address Book - Unnamed.Add_QToolButton	{text='Add' type='QToolButton' unnamed='1' visible='1' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - Unnamed.Edit_QMenu	{title='Edit' type='QMenu' unnamed='1' visible='1' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - Unnamed.Edit_QMenu_2	{title='Edit' type='QMenu' unnamed='1' visible='0' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - Unnamed.File_QMenu	{title='File' type='QMenu' unnamed='1' visible='1' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - Unnamed.File_QTableWidget	{aboveWidget=':Address Book - Unnamed.File_QToolBar' type='QTableWidget' unnamed='1' visible='1' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - Unnamed.File_QToolBar	{type='QToolBar' unnamed='1' visible='1' window=':Address Book - Unnamed_MainWindow' windowTitle='File'}
+:Address Book - Unnamed.Open_QToolButton	{text='Open' type='QToolButton' unnamed='1' visible='1' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - Unnamed_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='Address Book - Unnamed'}
+:Address Book - Unnamed_QMenu	{occurrence='3' type='QMenu' unnamed='1' visible='0' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - Unnamed_QMenuBar	{type='QMenuBar' unnamed='1' visible='1' window=':Address Book - Unnamed_MainWindow'}
+:Address Book - participants.adr.File_QMenu	{title='File' type='QMenu' unnamed='1' visible='1' window=':Address Book - participants.adr_MainWindow'}
+:Address Book - participants.adr_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='Address Book - participants.adr'}
+:Address Book - participants.adr_QMenuBar	{type='QMenuBar' unnamed='1' visible='1' window=':Address Book - participants.adr_MainWindow'}
+:Address Book.Add_QToolButton	{text='Add' type='QToolButton' unnamed='1' visible='1' window=':Address Book_MainWindow'}
+:Address Book.Cancel_QPushButton	{text='Cancel' type='QPushButton' unnamed='1' visible='1' window=':Address Book_QMessageBox'}
+:Address Book.Edit_QMenu	{title='Edit' type='QMenu' unnamed='1' visible='0' window=':Address Book_MainWindow'}
+:Address Book.Edit_QToolBar	{type='QToolBar' unnamed='1' visible='1' window=':Address Book_MainWindow' windowTitle='Edit'}
+:Address Book.File_QMenu	{title='File' type='QMenu' unnamed='1' visible='1' window=':Address Book_MainWindow'}
+:Address Book.New_QToolButton	{text='New' type='QToolButton' unnamed='1' visible='1' window=':Address Book_MainWindow'}
+:Address Book.No_QPushButton	{text='No' type='QPushButton' unnamed='1' visible='1' window=':Address Book_QMessageBox'}
+:Address Book.Open_QToolButton	{text='Open' type='QToolButton' unnamed='1' visible='1' window=':Address Book_MainWindow'}
+:Address Book_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='Address Book'}
+:Address Book_QMenuBar	{type='QMenuBar' unnamed='1' visible='1' window=':Address Book_MainWindow'}
+:Address Book_QMessageBox	{type='QMessageBox' unnamed='1' visible='1'}
+:Address Book_QTableWidget	{type='QTableWidget' unnamed='1' visible='1' window=':Address Book_MainWindow'}
+:Edit.&Add..._QAction	{container=':Address Book.Edit_QMenu' text='&Add...' type='QAction' unnamed='1' visible='true'}
+:Edit.&Add..._QAction_2	{container=':Address Book - Unnamed.Edit_QMenu_2' text='&Add...' type='QAction' unnamed='1' visible='true'}
+:Email:_LineEdit	{buddy=':Address Book - Add.Email:_QLabel' type='LineEdit' unnamed='1' visible='1'}
+:Email:_QLineEdit	{buddy=':Address Book - Add.Email:_QLabel' type='QLineEdit' unnamed='1' visible='1'}
+:File.0_0_QModelIndex	{column='0' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='0' type='QModelIndex'}
+:File.0_1_QModelIndex	{column='1' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='0' type='QModelIndex'}
+:File.0_2_QModelIndex	{column='2' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='0' type='QModelIndex'}
+:File.0_3_QModelIndex	{column='3' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='0' type='QModelIndex'}
+:File.124_2_QModelIndex	{column='2' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='124' type='QModelIndex'}
+:File.1_0_QModelIndex	{column='0' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='1' type='QModelIndex'}
+:File.1_1_QModelIndex	{column='1' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='1' type='QModelIndex'}
+:File.3_1_LineEdit	{column='1' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='3' type='LineEdit' unnamed='1' visible='1'}
+:File.3_1_QModelIndex	{column='1' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='3' type='QModelIndex'}
+:File.5_1_QModelIndex	{column='1' container=':Address Book - MyAddresses.adr.File_QTableWidget' row='5' type='QModelIndex'}
+:Forename:_LineEdit	{buddy=':Address Book - Add.Forename:_QLabel' type='LineEdit' unnamed='1' visible='1'}
+:Forename:_QLineEdit	{buddy=':Address Book - Add.Forename:_QLabel' type='QLineEdit' unnamed='1' visible='1'}
+:Phone:_LineEdit	{buddy=':Address Book - Add.Phone:_QLabel' type='LineEdit' unnamed='1' visible='1'}
+:Phone:_QLineEdit	{buddy=':Address Book - Add.Phone:_QLabel' type='QLineEdit' unnamed='1' visible='1'}
+:Surname:_LineEdit	{buddy=':Address Book - Add.Surname:_QLabel' type='LineEdit' unnamed='1' visible='1'}
+:Surname:_QLineEdit	{buddy=':Address Book - Add.Surname:_QLabel' type='QLineEdit' unnamed='1' visible='1'}
+:_QListView	{type='QListView' unnamed='1' visible='1'}
+:fileNameEdit_QLineEdit	{buddy=':Address Book - Choose File.File name:_QLabel' name='fileNameEdit' type='QLineEdit' visible='1'}
+:frame.stackedWidget_QStackedWidget	{container=':splitter.frame_QFrame' name='stackedWidget' type='QStackedWidget' visible='1'}
+:listView.MyAddresses.adr_QModelIndex	{container=':stackedWidget.listView_QListView' text='MyAddresses.adr' type='QModelIndex'}
+:splitter.frame_QFrame	{container=':Address Book - Choose File.splitter_QSplitter' name='frame' type='QFrame' visible='1'}
+:stackedWidget.listView_QListView	{container=':frame.stackedWidget_QStackedWidget' name='listView' type='QListView' visible='1'}
+:stackedWidget.treeView_QTreeView	{container=':frame.stackedWidget_QStackedWidget' name='treeView' type='QTreeView' visible='1'}

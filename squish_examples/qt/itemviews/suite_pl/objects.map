@@ -1,0 +1,10 @@
+:Item Views.qt_splithandle__QListWidget	{aboveWidget=':Item Views.qt_splithandle__QSplitterHandle' type='QListWidget' unnamed='1' visible='1' window=':Item Views_MainWindow'}
+:Item Views.qt_splithandle__QSplitterHandle	{name='qt_splithandle_' type='QSplitterHandle' visible='1' window=':Item Views_MainWindow'}
+:Item Views.qt_splithandle__QSplitterHandle_2	{name='qt_splithandle_' occurrence='2' type='QSplitterHandle' visible='1' window=':Item Views_MainWindow'}
+:Item Views.qt_splithandle__QSplitterHandle_3	{name='qt_splithandle_' occurrence='4' type='QSplitterHandle' visible='1' window=':Item Views_MainWindow'}
+:Item Views.qt_splithandle__QTableWidget	{aboveWidget=':Item Views.qt_splithandle__QSplitterHandle_2' type='QTableWidget' unnamed='1' visible='1' window=':Item Views_MainWindow'}
+:Item Views.qt_splithandle__QTreeWidget	{aboveWidget=':Item Views.qt_splithandle__QSplitterHandle_3' type='QTreeWidget' unnamed='1' visible='1' window=':Item Views_MainWindow'}
+:Item Views_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='Item Views'}
+:Item Views_QListView	{type='QListView' unnamed='1' visible='1' window=':Item Views_MainWindow'}
+:Item Views_QTableView	{type='QTableView' unnamed='1' visible='1' window=':Item Views_MainWindow'}
+:Item Views_QTreeView	{type='QTreeView' unnamed='1' visible='1' window=':Item Views_MainWindow'}

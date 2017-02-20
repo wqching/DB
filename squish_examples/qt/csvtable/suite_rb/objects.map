@@ -1,0 +1,81 @@
+:CSV - Table.Yes_QPushButton	{text='Yes' type='QPushButton' unnamed='1' visible='1' window=':CSV - Table_QMessageBox'}
+:CSV - Table_QMessageBox	{type='QMessageBox' unnamed='1' visible='1' windowTitle='CSV - Table'}
+:CSV Table - Choose File.File name:_QLabel	{name='fileNameLabel' text='File name:' type='QLabel' visible='1' window=':CSV Table - Choose File_QFileDialog'}
+:CSV Table - Choose File.Open_QPushButton	{text='Open' type='QPushButton' unnamed='1' visible='1' window=':CSV Table - Choose File_QFileDialog'}
+:CSV Table - Choose File.splitter_QSplitter	{name='splitter' type='QSplitter' visible='1' window=':CSV Table - Choose File_QFileDialog'}
+:CSV Table - Choose File_QFileDialog	{name='QFileDialog' type='QFileDialog' visible='1' windowTitle='CSV Table - Choose File'}
+:CSV Table - Column Names.Enter a comma-separated list of column names_QLabel	{text='Enter a comma-separated list of column names' type='QLabel' unnamed='1' visible='1' window=':CSV Table - Column Names_QInputDialog'}
+:CSV Table - Column Names_QInputDialog	{type='QInputDialog' unnamed='1' visible='1' windowTitle='CSV Table - Column Names'}
+:CSV Table - Delete Row.Yes_QPushButton	{text='Yes' type='QPushButton' unnamed='1' visible='1' window=':CSV Table - Delete Row_QMessageBox'}
+:CSV Table - Delete Row_QMessageBox	{type='QMessageBox' unnamed='1' visible='1' windowTitle='CSV Table - Delete Row'}
+:CSV Table - Error.OK_QPushButton	{text='OK' type='QPushButton' unnamed='1' visible='1' window=':CSV Table - Error_QMessageBox'}
+:CSV Table - Error_QMessageBox	{type='QMessageBox' unnamed='1' visible='1' windowTitle='CSV Table - Error'}
+:CSV Table - Swap Columns.Enter the comma-separated names of the two columns to be swapped swapped_QLabel	{text='Enter the comma-separated names of the two columns to be swapped swapped' type='QLabel' unnamed='1' visible='1' window=':CSV Table - Swap Columns_QInputDialog'}
+:CSV Table - Swap Columns.OK_QPushButton	{text='OK' type='QPushButton' unnamed='1' visible='1' window=':CSV Table - Swap Columns_QInputDialog'}
+:CSV Table - Swap Columns_QInputDialog	{type='QInputDialog' unnamed='1' visible='1' windowTitle='CSV Table - Swap Columns'}
+:CSV Table - Unnamed.0_0_QExpandingLineEdit	{column='0' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow'}
+:CSV Table - Unnamed.0_1_QExpandingLineEdit	{column='1' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow'}
+:CSV Table - Unnamed.0_2_QExpandingLineEdit	{column='2' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow'}
+:CSV Table - Unnamed.Edit_QMenu	{title='Edit' type='QMenu' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow'}
+:CSV Table - Unnamed.File_QMenu	{title='File' type='QMenu' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow'}
+:CSV Table - Unnamed.File_QTableWidget	{aboveWidget=':CSV Table - Unnamed.File_QToolBar' type='QTableWidget' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow'}
+:CSV Table - Unnamed.File_QToolBar	{type='QToolBar' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow' windowTitle='File'}
+:CSV Table - Unnamed_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='CSV Table - Unnamed'}
+:CSV Table - Unnamed_QMenuBar	{type='QMenuBar' unnamed='1' visible='1' window=':CSV Table - Unnamed_MainWindow'}
+:CSV Table - before.csv.0_0_QExpandingLineEdit	{column='0' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.0_1_QExpandingLineEdit	{column='1' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.0_2_QExpandingLineEdit	{column='2' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.0_3_QExpandingLineEdit	{column='3' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.0_4_QExpandingLineEdit	{column='4' row='0' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.10_0_QExpandingLineEdit	{column='0' row='10' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.10_1_QExpandingLineEdit	{column='1' row='10' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.10_2_QExpandingLineEdit	{column='2' row='10' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.10_3_QExpandingLineEdit	{column='3' row='10' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.10_4_QExpandingLineEdit	{column='4' row='10' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.3_2_QExpandingLineEdit	{column='2' row='3' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.4_0_QExpandingLineEdit	{column='0' row='4' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.4_1_QExpandingLineEdit	{column='1' row='4' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.4_2_QExpandingLineEdit	{column='2' row='4' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.4_3_QExpandingLineEdit	{column='3' row='4' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.4_4_QExpandingLineEdit	{column='4' row='4' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.5_2_QExpandingLineEdit	{column='2' row='5' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.5_3_QExpandingLineEdit	{column='3' row='5' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.8_2_QExpandingLineEdit	{column='2' row='8' type='QExpandingLineEdit' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.Edit_QMenu	{title='Edit' type='QMenu' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.File_QMenu	{title='File' type='QMenu' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.File_QMenu_2	{aboveWidget=':CSV Table - before.csv.File_QToolBar' type='QMenu' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.File_QTableWidget	{aboveWidget=':CSV Table - before.csv.File_QToolBar' type='QTableWidget' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table - before.csv.File_QToolBar	{type='QToolBar' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow' windowTitle='File'}
+:CSV Table - before.csv_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='CSV Table - before.csv'}
+:CSV Table - before.csv_QMenuBar	{type='QMenuBar' unnamed='1' visible='1' window=':CSV Table - before.csv_MainWindow'}
+:CSV Table.Cancel_QPushButton	{text='Cancel' type='QPushButton' unnamed='1' visible='1' window=':CSV Table_QMessageBox'}
+:CSV Table.File_QMenu	{title='File' type='QMenu' unnamed='1' visible='1' window=':CSV Table_MainWindow'}
+:CSV Table.File_QMenu_2	{aboveWidget=':CSV Table.File_QToolBar' type='QMenu' unnamed='1' visible='1' window=':CSV Table_MainWindow'}
+:CSV Table.File_QTableWidget	{aboveWidget=':CSV Table.File_QToolBar' type='QTableWidget' unnamed='1' visible='1' window=':CSV Table_MainWindow'}
+:CSV Table.File_QToolBar	{type='QToolBar' unnamed='1' visible='1' window=':CSV Table_MainWindow' windowTitle='File'}
+:CSV Table.New_QToolButton	{text='New' type='QToolButton' unnamed='1' visible='1' window=':CSV Table_MainWindow'}
+:CSV Table.No_QPushButton	{text='No' type='QPushButton' unnamed='1' visible='1' window=':CSV Table_QMessageBox'}
+:CSV Table.Open_QToolButton	{text='Open' type='QToolButton' unnamed='1' visible='1' window=':CSV Table_MainWindow'}
+:CSV Table.Yes_QPushButton	{text='Yes' type='QPushButton' unnamed='1' visible='1' window=':CSV Table_QMessageBox'}
+:CSV Table_MainWindow	{type='MainWindow' unnamed='1' visible='1' windowTitle='CSV Table'}
+:CSV Table_QMenuBar	{type='QMenuBar' unnamed='1' visible='1' window=':CSV Table_MainWindow'}
+:CSV Table_QMessageBox	{type='QMessageBox' unnamed='1' visible='1' windowTitle='CSV Table'}
+:Enter a comma-separated list of column names_QLineEdit	{buddy=':CSV Table - Column Names.Enter a comma-separated list of column names_QLabel' type='QLineEdit' unnamed='1' visible='1'}
+:Enter the comma-separated names of the two columns to be swapped swapped_QLineEdit	{buddy=':CSV Table - Swap Columns.Enter the comma-separated names of the two columns to be swapped swapped_QLabel' type='QLineEdit' unnamed='1' visible='1'}
+:File.0_0_QModelIndex	{column='0' container=':CSV Table - Unnamed.File_QTableWidget' row='0' type='QModelIndex'}
+:File.35 μg/m³_QTableWidgetItem	{checkstate='0' column='2' container=':CSV Table - before.csv.File_QTableWidget' row='4' text='35 μg/m³' type='QTableWidgetItem'}
+:File.3_2_QModelIndex	{column='2' container=':CSV Table - before.csv.File_QTableWidget' row='3' type='QModelIndex'}
+:_QListView	{type='QListView' unnamed='1' visible='1'}
+:fileNameEdit_QLineEdit	{buddy=':CSV Table - Choose File.File name:_QLabel' name='fileNameEdit' type='QLineEdit' visible='1'}
+:frame.stackedWidget_QStackedWidget	{container=':splitter.frame_QFrame' name='stackedWidget' type='QStackedWidget' visible='1'}
+:listView.before.csv_QModelIndex	{column='0' container=':stackedWidget.listView_QListView' row='1' text='before.csv' type='QModelIndex'}
+:listView.before.csv_QModelIndex_2	{container=':stackedWidget.listView_QListView' text='before.csv' type='QModelIndex'}
+:listView.shared_QModelIndex	{column='0' container=':stackedWidget.listView_QListView' row='0' text='shared' type='QModelIndex'}
+:listView.shared_QModelIndex_2	{container=':stackedWidget.listView_QListView' text='shared' type='QModelIndex'}
+:listView.suite_py_QModelIndex	{column='0' container=':stackedWidget.listView_QListView' row='3' text='suite_py' type='QModelIndex'}
+:listView.suite_py_QModelIndex_2	{container=':stackedWidget.listView_QListView' text='suite_py' type='QModelIndex'}
+:listView.testdata_QModelIndex	{column='0' container=':stackedWidget.listView_QListView' row='1' text='testdata' type='QModelIndex'}
+:listView.testdata_QModelIndex_2	{container=':stackedWidget.listView_QListView' text='testdata' type='QModelIndex'}
+:splitter.frame_QFrame	{container=':CSV Table - Choose File.splitter_QSplitter' name='frame' type='QFrame' visible='1'}
+:stackedWidget.listView_QListView	{container=':frame.stackedWidget_QStackedWidget' name='listView' type='QListView' visible='1'}
+:stackedWidget.treeView_QTreeView	{container=':frame.stackedWidget_QStackedWidget' name='treeView' type='QTreeView' visible='1'}

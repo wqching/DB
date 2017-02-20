@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>qml/AboutView.qml</file>
-        <file>qml/AddressBookModel.qml</file>
-        <file>qml/AddressBookView.qml</file>
-        <file>qml/EditView.qml</file>
-        <file>qml/main.qml</file>
-    </qresource>
-</RCC>
